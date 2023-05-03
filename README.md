@@ -3,12 +3,12 @@
 Modules/Dependencies should be installed first both in server and client side.
 
 For client side:
-cd .\client\
+cd .\client
 npm install
 npm run dev
  
 For server side:
-cd .\server\
+cd .\server
 npm install
 npm run dev
 
