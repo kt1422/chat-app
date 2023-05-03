@@ -1,6 +1,6 @@
 # chat-app
 
-MERN Stack
+MERN Stack\
 Modules/Dependencies should be installed first both in server and client side.
 
 For client side:
